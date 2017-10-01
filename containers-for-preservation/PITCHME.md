@@ -34,16 +34,16 @@
 
 ---
 
-## Options
+### Options
 
-- Update the dependencies
-- Use Containers
+- Update the dependencies |
+- Use Containers |
 
 +++
 
 ### Updating the dependencies
 
-- Takes time
+- Takes time |
 - Breaking API changes |
 - Logic changes |
 
@@ -53,7 +53,7 @@
 
 - Package the code |
 - AND it's dependencies |
-- run this <b>anywhere</b>
+- run this <b>anywhere</b> |
 
 ---
 
@@ -66,4 +66,4 @@ Allows the combination of:
 - Dependant Libraries |
 - System Libraries & Tools |
 
-Into a single image that can be run anywhere
+<span class="fragment">Into a single image that can be run anywhere</span>
