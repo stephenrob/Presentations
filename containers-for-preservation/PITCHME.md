@@ -1,4 +1,4 @@
-#### Containers for Software Preservation
+### Containers for Software Preservation
 <br>
 <span style="font-size:0.8em;">Stephen Robinson</span>
 <br>
