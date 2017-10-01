@@ -18,7 +18,7 @@
 
 ---
 ## 2 Years Later
-+++?image=https://octodex.github.com/images/inspectocat.png
++++?image=https://octodex.github.com/images/inspectocat.jpg
 <!-- .slide: data-background-transition="none" -->
 <span style="color: gray; font-size:0.3em; position: fixed; bottom: 10px; left: 40%; z-index: 999">the <b>Inspectocat </b> by [jasoncostello](https://github.com/jasoncostello)</span>
 
