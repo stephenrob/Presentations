@@ -8,14 +8,12 @@
 
 +++?image=https://octodex.github.com/images/femalecodertocat.png
 <!-- .slide: data-background-transition="none" -->
+<span style="color:gray; font-size: 0.5em;">the <b>Female Codertocat </b> by [jeejkang](https://github.com/jeejkang)</span>
 +++?image=https://upload.wikimedia.org/wikipedia/commons/8/87/Octicons-git-pull-request.svg
 <!-- .slide: data-background-transition="none" -->
+<span style="color: gray; font-size:0.5em;">By GitHub (https://github.com/github/octicons) [MIT (http://opensource.org/licenses/mit-license.php) or OFL (http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)], via Wikimedia Commons</span>    
 +++?image=https://octodex.github.com/images/welcometocat.png
 <!-- .slide: data-background-transition="none" -->
+<span style="color:gray; font-size: 0.5em;">the <b>Welcometocat </b> by [jglovier](https://github.com/jglovier) & [JohnCreek](https://github.com/JohnCreek)</span>
 
 ---
-
-![Female Coder Cat](https://octodex.github.com/images/femalecodertocat.png)
-![PR Merge](https://upload.wikimedia.org/wikipedia/commons/8/87/Octicons-git-pull-request.svg)
-![Welcome Cat](https://octodex.github.com/images/welcometocat.png)
-
