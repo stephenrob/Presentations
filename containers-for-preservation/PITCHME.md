@@ -8,12 +8,12 @@
 
 +++?image=https://octodex.github.com/images/femalecodertocat.png
 <!-- .slide: data-background-transition="none" -->
-<span style="color: gray; font-size:0.3em; position: fixed; bottom: 10px; left: 35%; z-index: 999">the <b>Female Codertocat </b> by [jeejkang](https://github.com/jeejkang)</span>
+<span style="color: gray; font-size:0.3em; position: fixed; bottom: 10px; left: 40%; z-index: 999">the <b>Female Codertocat </b> by [jeejkang](https://github.com/jeejkang)</span>
 +++?image=https://upload.wikimedia.org/wikipedia/commons/8/87/Octicons-git-pull-request.svg
 <!-- .slide: data-background-transition="none" -->
-<span style="color: gray; font-size:0.3em; position: fixed; bottom: 10px; left: 35%; z-index: 999">By GitHub (https://github.com/github/octicons) [MIT (http://opensource.org/licenses/mit-license.php) or OFL (http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)], via Wikimedia Commons</span>    
+<span style="color: gray; font-size:0.3em; position: fixed; bottom: 10px; left: 10%; z-index: 999">By GitHub (https://github.com/github/octicons) [MIT (http://opensource.org/licenses/mit-license.php) or OFL (http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)], via Wikimedia Commons</span>    
 +++?image=https://octodex.github.com/images/welcometocat.png
 <!-- .slide: data-background-transition="none" -->
-<span style="color: gray; font-size:0.3em; position: fixed; bottom: 10px; left: 35%; z-index: 999">the <b>Welcometocat </b> by [jglovier](https://github.com/jglovier) & [JohnCreek](https://github.com/JohnCreek)</span>
+<span style="color: gray; font-size:0.3em; position: fixed; bottom: 10px; left: 40%; z-index: 999">the <b>Welcometocat </b> by [jglovier](https://github.com/jglovier) & [JohnCreek](https://github.com/JohnCreek)</span>
 
 ---
