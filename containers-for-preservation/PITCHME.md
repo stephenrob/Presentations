@@ -53,7 +53,7 @@
 
 - Package the code |
 - AND it's dependencies |
-- run this | <b>anywhere</b> |
+- <span>run this <b>anywhere</b></span> |
 
 ---
 
