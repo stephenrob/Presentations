@@ -1,8 +1,8 @@
 ## Containers for Software Preservation
 
-###### Stephen Robinson
-###### Digital Developer Projects & Operations
-###### Lancaster University Library
+###### <span font-size:0.6em;>Stephen Robinson</span>
+###### <span font-size:0.6em;>Digital Developer Projects & Operations</span>
+###### <span font-size:0.6em;>Lancaster University Library</span>
 ---
 
 ---
