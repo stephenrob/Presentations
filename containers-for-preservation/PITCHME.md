@@ -67,3 +67,56 @@ Allows the combination of:
 - System Libraries & Tools |
 
 <span class="fragment">Into a single image that can be run anywhere</span>
+
+--- 
+
+## Preserving Containers
+
+<span class="fragment">Put the generated container image into the preservation system</span>
+<br>
+<span class="fragment">Only half the problem</span>
+<br>
+<span class="fragment">Still need to run the container image in the future</span>
+
++++
+
+### The Docker Problem
+
+- Widely adopted and supported |
+- Commercial company |
+- Great for business |
+- Not so great for preservation |
+
++++
+
+### Open Container Initiative
+
+<span class="fragment">An open governance structure for the express purpose of creating open industry standards around container formats and runtime</span>
+
++++
+
+### Image Format (OCI Image)
+
+- Donated by Docker |
+- Image Manifest |
+- Image Configuration |
+- 1+ Filesystem Serializations |
+
++++
+
+### Container Runtime (OCI-R)
+
+- runC |
+- Donated by Docker |
+
+---
+
+## OCI and Preservation
+
+- OCI under Linux Foundation
+- No single commercial entity
+- Open format and runtime
+
++++
+
+Open and sustainable preservation option ensuring we can run containers in the future
