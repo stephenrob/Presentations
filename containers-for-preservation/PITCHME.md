@@ -91,7 +91,7 @@ Allows the combination of:
 
 ### Open Container Initiative
 
-<span class="fragment">An open governance structure for the express purpose of creating open industry standards around container formats and runtime</span>
+> <span class="fragment">An open governance structure for the express purpose of creating open industry standards around container formats and runtime</span>
 
 +++
 
