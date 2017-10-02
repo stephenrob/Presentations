@@ -72,11 +72,11 @@ Allows the combination of:
 
 ## Preserving Containers
 
-<span class="fragment">Put the generated container image into the preservation system</span>
+<span class="fragment" style="font-size: 0.8em;">Put the generated container image into the preservation system</span>
 <br>
-<span class="fragment">Only half the problem</span>
+<span class="fragment" style="font-size: 0.8em;">Only half the problem</span>
 <br>
-<span class="fragment">Still need to run the container image in the future</span>
+<span class="fragment" style="font-size: 0.8em;">Still need to run the container image in the future</span>
 
 +++
 
