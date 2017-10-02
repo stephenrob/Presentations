@@ -93,7 +93,7 @@ In special collections
 ### Using Containers
 
 - Package the code |
-- AND it's dependencies |
+- AND its dependencies |
 - <span>run this <b>anywhere</b></span> |
 
 Note:
