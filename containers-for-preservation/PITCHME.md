@@ -113,9 +113,9 @@ Allows the combination of:
 
 ## OCI and Preservation
 
-- OCI under Linux Foundation
-- No single commercial entity
-- Open format and runtime
+- OCI under Linux Foundation |
+- No single commercial entity |
+- Open format and runtime |
 
 +++
 
