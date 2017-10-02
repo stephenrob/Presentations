@@ -80,6 +80,12 @@ Logic changes might happen as you update to new APIs or might be in underlying l
 
 +++
 
+### Keeping the computer around
+
+![Apple Mac](https://pbs.twimg.com/media/C4x43dSWMAI3jWU.jpg:small)
+
++++
+
 ### Using Containers
 
 - Package the code |
